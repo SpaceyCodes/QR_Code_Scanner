@@ -28,6 +28,7 @@ dependencies:
   path_provider:
   path:
   url_launcher: ^5.4.11
+  sqflite: ^1.2.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

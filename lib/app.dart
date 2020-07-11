@@ -8,6 +8,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scanner_detail(_temp),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
